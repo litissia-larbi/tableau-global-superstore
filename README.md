@@ -12,13 +12,13 @@ Projet de visualisation de données massives réalisé avec **Tableau Public** d
 
 ## 📁 Dataset
 
-| Propriété | Détail |
-|---|---|
-| Source | Global Superstore Dataset |
-| Période | 2011 — 2014 |
-| Lignes | 51 290 commandes |
-| Couverture | 147 pays, 13 régions mondiales |
-| Variables clés | Sales, Profit, Region, Segment, Category, Sub-Category, Discount |
+| Propriété      |  Détail                                                               |
+|----------------|-----------------------------------------------------------------------|
+| Source         | Global Superstore Dataset                                             |
+| Période        | 2011 — 2014                                                           |
+| Lignes         | 51 290 commandes                                                      |
+| Couverture     | 147 pays, 13 régions mondiales                                        |
+| Variables clés | Sales, Profit, Region, Segment, Category, Sub-Category, Discount      |
 
 ---
 
@@ -37,7 +37,7 @@ Malgré une croissance des ventes de **+90% entre 2011 et 2014**, le taux de mar
     <td align="center" width="50%">
       <b>📈 Page 1 — Vue d'ensemble</b><br>
       <i>Une croissance du chiffre d'affaires sous pression sur la rentabilité</i><br><br>
-      <img src="screenshots/Screenshot_1.png" width="100%"/>
+      <img src="screenshots/Screenshot 1.png" width="100%"/>
       <br><br>
       • 4 KPI Cards (CA : 12,6M$, Résultat net, Marge 11,6%, 25 035 commandes)<br>
       • Courbe Sales vs Profit 2011–2014<br>
@@ -46,7 +46,7 @@ Malgré une croissance des ventes de **+90% entre 2011 et 2014**, le taux de mar
     <td align="center" width="50%">
       <b>🗺️ Page 2 — Analyse géographique</b><br>
       <i>Fortes disparités de rentabilité à l'échelle mondiale</i><br><br>
-      <img src="screenshots/Screenshot_2.png" width="100%"/>
+      <img src="screenshots/Screenshot 2.png" width="100%"/>
       <br><br>
       • Carte choroplèthe profit par pays<br>
       • Classement des 13 régions par profit<br>
@@ -57,7 +57,7 @@ Malgré une croissance des ventes de **+90% entre 2011 et 2014**, le taux de mar
     <td align="center" width="50%">
       <b>👥 Page 3 — Segments & Catégories</b><br>
       <i>Performance des segments clients — contribution au profit</i><br><br>
-      <img src="screenshots/Screenshot_3.png" width="100%"/>
+      <img src="screenshots/Screenshot 3.png" width="100%"/>
       <br><br>
       • Consumer domine : 749 240$ de profit<br>
       • Tables : seule sous-catégorie déficitaire à -64 083$<br>
@@ -66,7 +66,7 @@ Malgré une croissance des ventes de **+90% entre 2011 et 2014**, le taux de mar
     <td align="center" width="50%">
       <b>💹 Page 4 — Analyse de la rentabilité</b><br>
       <i>Furniture, le frein à la croissance — marges sous pression</i><br><br>
-      <img src="screenshots/Screenshot_4.png" width="100%"/>
+      <img src="screenshots/Screenshot 4.png" width="100%"/>
       <br><br>
       • Furniture : 6,9% vs Technology : 14,0%<br>
       • Tables : taux de marge négatif à -8,5%<br>
