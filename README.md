@@ -106,7 +106,7 @@ Malgré une croissance des ventes de **+90% entre 2011 et 2014**, le taux de mar
 
 ## 🛠️ Technologie
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+Tableau
 
 ---
 
